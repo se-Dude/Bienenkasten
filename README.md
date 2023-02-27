@@ -1,3 +1,3 @@
 # Bienenkasten
 Bild Bienenkasten
-![alt text]()
+![alt text](https://github.com/se-Dude/Bienenkasten/blob/main/Bienenkasten.jpg)
